@@ -1,0 +1,4 @@
+[submodule "rlfss/royal-occa"]
+	path = rlfss/royal-occa
+	url = git@github.com:rlfss/royal-occa.git
+	branch = stage2.1
